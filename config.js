@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/LPFQ2X1cnihB0fb8F8cZau', ''] // ganti jadi group lu
-global.owner = ['6289612698583','6288233832771'] // Put your number here //owner eval
-global.kontak = ['6289612698583','6288233832771'] //Ketika ada yang ngetik #owner
+global.linkGC = ['-', ''] // ganti jadi group lu
+global.owner = ['6285781628368'] // Put your number here //owner eval
+global.kontak = ['6285781628368'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['+1 (775) 403-5736','6289505165400','6282287750102'] // Premium user has unlimited limit
+global.prems = ['0'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -49,20 +49,20 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'mursid.st'
 namagithub = 'Botwa021'
 kasihcaption = `Follow Ig @mursid.st`
-namakontak1 = '𝙼𝚞𝚛𝚜𝚒𝚍 𝙱𝙾𝚃'
-namakontak2 = '𝙼𝚞𝚛𝚜𝚒𝚍'
+namakontak1 = 'Opall'
+namakontak2 = '¯\_(ツ)_/¯'
 
-//kasihcaption = `Follow Ig @mursid.st`
+//kasihcaption = `owner ganteng`
 
 // Sticker WM
-global.packname = 'мυяѕι∂' // ganti aja
+global.packname = 'opall' // ganti aja
 global.author = 'ʙᴏᴛ' // ganti aja
 
 //yyy
-bc = 'мυяѕι∂' //мυяѕι∂ Broadcast
-footer = `\n𝐌𝐔𝐑𝐒𝐈𝐃 𝐁𝐎𝐓`
-namabot = `WhatsApp Bot`
-namalu = 'MursidGanteng'
+bc = 'opal' //мυяѕι∂ Broadcast
+footer = `\nopall 𝐁𝐎𝐓`
+namabot = `opall Bot`
+namalu = 'nopalganteng'
 
 
 // 
